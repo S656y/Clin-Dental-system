@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix ClinDent - منصة إدارة وتتبع الحالات الإكلينيكية والتدريب السريري لطب الأسنان",
+  "description": "منصة سريرية متطورة لإدارة التعليم والتدريب السريري لطب الأسنان، تشمل تخطيط الأسنان التفاعلي (FDI, UNS, Palmer)، عارض الأشعة الرقمية PACS، متابعة الكوتا، واعتماد المشرفين ورؤساء الأقسام والعمادة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
